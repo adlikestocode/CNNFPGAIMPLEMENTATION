@@ -1,6 +1,4 @@
-Below is a sample README document that integrates your notes and covers both the application of CNNs for pancreatic cancer screening via EUS and non‐trivial FPGA implementation aspects, including benchmarking with pretrained models.
 
----
 
 # FPGA-Based CNN Accelerator for Pancreatic Cancer Screening via EUS  
 ### & Benchmarking Pretrained Models for FPGA Deployment
